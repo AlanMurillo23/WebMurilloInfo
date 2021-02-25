@@ -1,0 +1,121 @@
+body{
+  background-color: #e7e6e1;
+}
+.inicio{
+  text-align: center;
+  background-color: #f2a154;
+width: 90%;
+margin-left: 5%;
+margin-top: 0;
+padding-top: 0;
+
+}
+.Conoceme{
+  width: 65%;
+  background-color: #314e52;
+  margin-left: 5%;
+  padding-bottom: 3%;
+  font-size: 20px;
+
+
+}
+.conoceme1{
+
+position: relative;
+}
+.yo{
+  position: absolute;
+  right: 5%;
+  top: 2px;
+  width: 20%;
+
+
+}
+.TexoConoceme{
+  text-align: justify;
+  margin-right: 5%;
+  margin-left: 5%
+
+}
+
+.tabla{
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%
+}
+.Practicas{
+  background-color: #314e52;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-bottom: 4%;
+  font-size: 20px;
+}
+.Titulo{
+  margin-top: 40px;
+  margin-left: 40px;
+  color: #f7f6e7;
+
+}
+.Carrera{
+  background-color: #314e52;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-bottom: 4%;
+  font-size: 20px;
+}
+p{
+  font-size: 20px;
+  color: #f7f6e7;
+  text-align: justify;
+  margin-right: 5%;
+  margin-left: 5%
+}
+.lista{
+  font-size: 30px;
+  color: #f7f6e7;
+    text-align: justify;
+}
+li{
+  font-size: 20px;
+  color: #f7f6e7;
+  margin-right: 5%;
+  margin-left: 5%
+}
+.imagen1{
+
+  position: relative;
+
+
+  width: 500px;
+
+}
+.video{
+  width: 500px;
+  height: 310px;
+  position: relative;
+  left: 32%;
+  bottom: 70px;
+}
+.mapa{
+  position: relative;
+  top: 700px;
+  right: 8%;
+
+}
+a{
+  color: #f7f6e7;
+}
+#indice{
+  text-align: center;
+
+}
+.wiki{
+  position: relative;
+  left: 30%;
+  top:30px;
+}
+.inicio1{
+  text-align: center;
+  font-size: 40px;
+padding-top: 30px
+}
